@@ -1,0 +1,11 @@
+#form{
+background-color: blueviolet;
+margin: 12%;
+padding: 4%;
+}
+label{
+    color: aliceblue;
+}
+input{
+   margin: 20px;
+}
